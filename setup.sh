@@ -71,7 +71,7 @@ wget https://${akbarvpnnnnnnnnn}/edu.sh && chmod +x edu.sh && ./edu.sh
 # Ohp Server
 wget https://${akbarvpnnnnnnnnnn}/ohp.sh && chmod +x ohp.sh && ./ohp.sh
 # Install Slowdns Server
-# wget https://raw.githubusercontent.com/mixserrm999/Mantap/main/Slowdns/install && chmod +x install && bash install
+wget https://raw.githubusercontent.com/mixserrm999/Mantap/main/Slowdns/install && chmod +x install && bash install
 # Informasi IP Saya dan Semua Port TCP UDP
 # wget https://raw.githubusercontent.com/mixserrm999/Mantap/main/ipsaya.sh && chmod +x ipsaya.sh
 #
