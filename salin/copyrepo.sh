@@ -6,7 +6,8 @@ apt update -y
 sudo apt install git -y
 apt install git -y
 cd
-cd /root/
-git clone https://github.com/fisabiliyusri/Mantap
+mkdir /root/Mantap/
+cd /root/Mantap/
+git clone https://github.com/mixserrm999/Mantap
 
 cd
